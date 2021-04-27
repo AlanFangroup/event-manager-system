@@ -6,6 +6,10 @@ body {
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+:root {
+  --color-primary: rgb(7, 176, 200);
+}
+
 * {
   box-sizing: border-box;
 }
