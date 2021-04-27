@@ -8,11 +8,9 @@ export default function Home() {
       <Head>
         <title>Fangroup - Event Manager System</title>
       </Head>
-
       <main>
         <Header title="Welcome to Event Manager System!" />
       </main>
-
       <Footer />
     </div>
   )
