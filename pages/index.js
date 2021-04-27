@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Fangroup</title>
+        <title>FANGROUP</title>
       </Head>
       <main>
         <Header title="Welcome to Event Manager System!" />
